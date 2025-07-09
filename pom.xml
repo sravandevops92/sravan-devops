@@ -4,12 +4,12 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example.helloworld</groupId>
-  <artifactId>hello-world-war</artifactId>
+  <groupId>com.example.sravan-devops</groupId>
+  <artifactId>sravan-devops-war</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>hello-world-war Maven Webapp</name>
+  <name>sravan-devops-war Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -37,7 +37,7 @@
   </dependencies>
 
   <build>
-    <finalName>hello-world-war</finalName>
+    <finalName>sravan-devops-war</finalName>
 
     <plugins>
       <!-- WAR Plugin (use modern version!) -->
